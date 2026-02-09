@@ -2,7 +2,7 @@ _These instructions are for those who already have a remote VPS._
 
 ## 1. Download [Bitvise_SSH_Client.exe](https://dl.bitvise.com/BvSshClient-Inst.exe):
 - -> **"Login"** tab:
-  - Host: *host
+  - Host: *your vps ip
   - Port: 22
   - Username: root
   - Initial method: password (enter your password)
